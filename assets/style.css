@@ -1,0 +1,29 @@
+/* CSS Document */
+.background {
+	background: url("assets/images/dust_scratches.png");
+}
+
+hr {
+	line-height: 2rem;
+}
+#aboutMe {
+	margin: .5rem;
+	padding: .5rem;
+	border-top: medium #787878;
+}
+
+#box1 {
+	display: inline;
+}
+
+.box2 {
+	background-color: white;
+	border: 1px lightgray;
+}
+
+#icons {
+	background-color: white;
+	border-top: red;
+	align-content: center;
+	line-height: 5rem;
+}

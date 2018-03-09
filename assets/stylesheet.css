@@ -1,0 +1,72 @@
+/* CSS Document */
+#navBar {
+	background-color: #ffffff;
+}
+
+.name {
+	font-size: 4rem;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	margin: 1rem 1rem 0rem 1rem;
+	padding: 2rem;
+}
+
+ul li {
+	display: inline;
+	list-style-type: none;
+}
+
+#menu {
+	font-size: 2rem;
+	color: #99A3A4;
+	margin-top: 3.5rem;
+}
+
+#pageBody {
+	background-image: url(images/dust_scratches.png);
+	padding: .5rem 0rem .5rem 0rem;
+}
+
+.about {
+	font-size: 4rem;
+	font-style: bold;
+	color: #4aaaa5;
+	margin: 1rem 1rem 1rem 1rem;
+}
+
+.bodyContainer {
+	margin: 2rem;
+}
+
+.bioSection {
+	background-color: #ffffff;
+	margin: .5rem;
+}
+
+#bioImg {
+	margin: 1rem;
+}
+
+p {
+	color: #99A3A4;
+	margin: 1rem;
+}
+
+#connect {
+	color: #4aaaa5;
+	margin: .2rem 2rem 0rem 3rem;
+	padding: 1rem 1rem 2rem 1rem;
+	justify-content: center;
+	align-content: center;
+}
+
+footer {
+	background-color: #666666;
+	color: #fff;
+	text-align: center;
+	line-height: 5rem;
+	margin-top: -2px;
+	padding: 0px;
+}
+
+
